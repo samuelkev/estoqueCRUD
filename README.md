@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="C:\Users\elias\Downloads" alt="Exemplo de Uso">
+</p>
+
 Sistema de Estoque - CRUD em Python
 Este é um projeto de sistema de estoque em Python que realiza operações de CRUD (Create, Read, Update, Delete).
 
