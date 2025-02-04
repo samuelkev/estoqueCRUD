@@ -4,6 +4,8 @@
 <img src="![Captura de tela 2024-04-15 202116](https://github.com/samuelkev/Estoque-CRUD/assets/72141979/babc5769-0cd3-40a7-a075-b183be326588)" width="300px" />
 </div>
 
+## Estoque CRUD
+
 Este é um projeto de sistema de estoque em Python que realiza operações de CRUD (Create, Read, Update, Delete), utilizando as tecnologias SQLite, Tkinter e PIL.
 
 ## Funcionalidades
